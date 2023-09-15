@@ -53,7 +53,7 @@
 
 **檢視非數值欄位**： <p>
 Name欄有2筆是重複的，而Sex欄只有Male/Female這2種值，其中以Male最多，有843位。
-![](https://hackmd.io/_uploads/SkDgAWGk6.png)
+![](C:\Users\33\Downloads\upload_81d25084f710333ae6d040bbc522a18d.png)
 
 ## 機器學習或深度學習方式（使用何種方式）
 根據測試結果，本組使用隨機森林來訓練模型
