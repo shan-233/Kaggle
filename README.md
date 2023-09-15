@@ -48,7 +48,8 @@
 * Cabin：因缺值太多，目前選擇先不作為特徵使用。
 * Embarked：從分析上，發現C港口的乘客大多是P1等級的票，因此選擇填入C值。
 
-**檢視非數值欄位**： <p>
+**檢視非數值欄位**：
+
 Name欄有2筆是重複的，而Sex欄只有Male/Female這2種值，其中以Male最多，有843位。
 
 ![](FileBackup/0613-README-IMG/檢視非數值欄位.png)
@@ -84,6 +85,9 @@ Name欄有2筆是重複的，而Sex欄只有Male/Female這2種值，其中以Mal
 
 ## 機器學習或深度學習方式（使用何種方式）
 填補完缺漏值，確認資料無缺漏後，使用多種演算法來測試模型，並測試使用自己增加的Feature與使用原始Feature兩者的差異。最後根據測試結果，我們評估後決定使用隨機森林來訓練模型。
+
+### 使用隨機森林來訓練模型：
+![](FileBackup/0613-README-IMG/使用隨機森林來訓練模型.png)
 
 ### 將結果輸出至gender_submission.csv檔：
 ![](FileBackup/0613-README-IMG/將結果輸出至gender_submission.csv檔.png)
