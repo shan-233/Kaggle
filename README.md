@@ -1,5 +1,8 @@
 # Kaggle競賽：Titanic - Machine Learning from Disaster
 
+## 原始碼
+![原始碼檔案](Titanic - Machine Learning from Disaster.ipynb)
+
 ## 成員
 ![](FileBackup/0613-README-IMG/組員.jpg)
 
