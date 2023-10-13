@@ -1,5 +1,8 @@
 # Kaggle競賽：Titanic - Machine Learning from Disaster
 
+## 成員
+![](FileBackup/0613-README-IMG/組員.jpg)
+
 ## 成績
 ![](FileBackup/0613-README-IMG/成績-1.png)
 ![](FileBackup/0613-README-IMG/成績-2.png)
