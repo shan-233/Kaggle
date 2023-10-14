@@ -7,6 +7,7 @@
 ![](FileBackup/0613-README-IMG/組員.jpg)
 
 ## 成績
+在16,000位競賽者中排名Top 4%
 ![](FileBackup/0613-README-IMG/成績-1.png)
 ![](FileBackup/0613-README-IMG/成績-2.png)
 
